@@ -1,0 +1,25 @@
+
+
+/*# sourceMappingURL=style.css.map */
+
+#page_header{
+    display:grid;
+    background-color: bisque;
+    transition: all 1s ease-in-out;
+}
+#page_header:hover{
+    background-color: aqua;
+}
+
+#page_main{
+    display:grid;
+    place-items: center;
+font-size: medium;
+
+}
+
+.pet{
+    background-color: antiquewhite;
+    
+}
+
